@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hey there :)
-My name is Sascha and i am a fullstack developer.
+My name is Sascha and i am a fullstack developer. <br>
 I write code in HTML, CSS and JavaScript for frontend and backend (NodeJS, MongoDB, ExpressJS) applications across platforms.
 
 
